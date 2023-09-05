@@ -78,3 +78,10 @@
 .content1-right-empolyment {
   text-align: center;
 }
+.resume_btn {
+  background-color: black;
+  margin-right: 10%;
+  padding: 3px 3px;
+  color: aliceblue;
+  border-radius: 20px;
+}
